@@ -33,7 +33,7 @@ This project follows the **Bell-LaPadula model**:
 
 # Multi-Level Security (MLS) Simulation – C# .NET Version
 
-## 📄 Description
+## Description
 This C# console app simulates a Multi-Level Security (MLS) system with 4 user clearance levels:
 - `1` - Public
 - `2` - Limited
