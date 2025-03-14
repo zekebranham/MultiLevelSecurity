@@ -44,7 +44,6 @@ It includes:
 - User and File class models
 - Credential-based login
 - Clearance-based file access
-- Console password masking
 - Random generation of 50 secured files
 
 ## Security Model
